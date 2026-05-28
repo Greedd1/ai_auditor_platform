@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #0f172a; /* Tailwind's slate-900 for a deep, premium dark mode */
+  color: #f8fafc;
+}

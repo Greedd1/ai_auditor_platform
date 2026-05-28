@@ -1,0 +1,11 @@
+# Node & Next.js
+node_modules/
+.next/
+
+# Python & Virtual Environments
+server/venv/
+__pycache__/
+*.pyc
+
+# Security (NEVER UPLOAD API KEYS)
+.env
